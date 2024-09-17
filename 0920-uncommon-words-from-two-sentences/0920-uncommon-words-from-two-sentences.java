@@ -12,11 +12,11 @@ class Solution {
 
        List<String> result = new ArrayList<>();
 
-       for(Map.Entry<String, Integer> entry: wordCount.entrySet()){
-        if(entry.getValue() == 1){
-            result.add(entry.getKey());
+       for (String word : wordCount.keySet()) {
+            if (wordCount.get(word) == 1) {
+                result.add(word);
+            }
         }
-       } 
        return result.toArray(new String[0]); 
     }
 }
