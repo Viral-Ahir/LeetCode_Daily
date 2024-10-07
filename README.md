@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Viral-Ahir/LeetCode_Daily/tree/master/0001-two-sum) |
 | [0179-largest-number](https://github.com/Viral-Ahir/LeetCode_Daily/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Viral-Ahir/LeetCode_Daily/tree/master/0217-contains-duplicate) |
 | [0539-minimum-time-difference](https://github.com/Viral-Ahir/LeetCode_Daily/tree/master/0539-minimum-time-difference) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Viral-Ahir/LeetCode_Daily/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Viral-Ahir/LeetCode_Daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Viral-Ahir/LeetCode_Daily/tree/master/0242-valid-anagram) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Viral-Ahir/LeetCode_Daily/tree/master/0920-uncommon-words-from-two-sentences) |
