@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Viral-Ahir/LeetCode_Daily/tree/master/0002-add-two-numbers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Viral-Ahir/LeetCode_Daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/Viral-Ahir/LeetCode_Daily/tree/master/0539-minimum-time-difference) |
 ## Sorting
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Viral-Ahir/LeetCode_Daily/tree/master/0002-add-two-numbers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Viral-Ahir/LeetCode_Daily/tree/master/0241-different-ways-to-add-parentheses) |
 ## Memoization
 |  |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Viral-Ahir/LeetCode_Daily/tree/master/0071-simplify-path) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Viral-Ahir/LeetCode_Daily/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
