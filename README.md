@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Viral-Ahir/LeetCode_Daily/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Viral-Ahir/LeetCode_Daily/tree/master/0217-contains-duplicate) |
 | [0539-minimum-time-difference](https://github.com/Viral-Ahir/LeetCode_Daily/tree/master/0539-minimum-time-difference) |
+| [0883-car-fleet](https://github.com/Viral-Ahir/LeetCode_Daily/tree/master/0883-car-fleet) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Viral-Ahir/LeetCode_Daily/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Viral-Ahir/LeetCode_Daily/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Viral-Ahir/LeetCode_Daily/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Viral-Ahir/LeetCode_Daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Viral-Ahir/LeetCode_Daily/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/Viral-Ahir/LeetCode_Daily/tree/master/0539-minimum-time-difference) |
+| [0883-car-fleet](https://github.com/Viral-Ahir/LeetCode_Daily/tree/master/0883-car-fleet) |
 ## Greedy
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Viral-Ahir/LeetCode_Daily/tree/master/0071-simplify-path) |
+| [0883-car-fleet](https://github.com/Viral-Ahir/LeetCode_Daily/tree/master/0883-car-fleet) |
 ## Linked List
 |  |
 | ------- |
@@ -117,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Viral-Ahir/LeetCode_Daily/tree/master/0027-remove-element) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0883-car-fleet](https://github.com/Viral-Ahir/LeetCode_Daily/tree/master/0883-car-fleet) |
 <!---LeetCode Topics End-->
